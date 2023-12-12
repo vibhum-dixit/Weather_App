@@ -1,0 +1,14 @@
+.container{
+    height: 100vh; 
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size:cover;
+    background-position: center;
+    background-image: url('weather_image.png');
+
+}
+
+*{
+    margin: 0;
+    padding:0;
+}
